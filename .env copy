@@ -1,0 +1,9 @@
+AOAI_API_KEY=""
+AOAI_ENDPOINT=""
+AOAI_MODEL_NAME_4o=gpt-4o
+AOAI_MODEL_API_VERSION_4o="2024-02-15-preview"
+
+#Databricks
+Databricks_Server_Hostname="" 
+Databricks_http_path=""  
+Databricks_access_token=""  
